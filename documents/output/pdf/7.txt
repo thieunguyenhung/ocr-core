@@ -1,0 +1,135 @@
+
+
+> ..
+
+VĂN PHÒNG CHÍNH PHỦ . CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+TRUNG TÂM TIN HỌC Độc lập - Tự do - Hạnh phúc
+Số: /2c 'TTTH-ATANTT Hà Nội, ngày66 tháng 4 năm 2017
+
+V/v khảo sát ứng dụng chữ ký số
+phục vụ gưlfnhan văn bản điện từ
+qua Hệ thống liên thông văn bản
+
+Kính gửi:
+- - Văn phòng các Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;
+- .. Văn phòng UBND các tỉnh, thành pho trực thuộc Trung ương;
+- - Văn phòng các Tập đoàn kinh tế và Tổng Công ty nhà nước.
+
+Triển khai Nghị quyết 36a/NQ-CP ngày 14 tháng 10 năm 2015 của Chính phủ về
+Chính phủ điện tử, Văn phòng Chính phủ đã phối hợp với các bộ, ngành, địa phương
+thực hiện kết nối, liên thông các phần mềm quản lý văn bản qua hệ thống liên thông văn
+bản trên Mạng truyền số liệu chuyên dùng của các cơ quan Đảng, Nhà nước. Việc gửi
+nhận văn bản điện tử liên thông giữa Văn phòng Chính phủ với các bộ, ngành, địa
+phương đã từng bước ổn định.
+
+Để hoàn thiện ket nối, liên thông phần mềm quản lý văn bản giữa các cơ quan hành
+chính nhà nước các cấp, trong đó các văn bản điện tử được gửi giữa các cơ quan được ký
+số, Trung tâm Tin học Văn phòng Chính phủ đề nghị Văn phòng các Bộ, ngành, địa
+phương và các Tập đoan kinh tế, Tong công ty Nhà nước cung cấp thông tin về việc triển
+khai ứng dụng chữ ký số tại cơ quan (theo mẫu khảo sát đính kèm).
+
+Kết quả khảo sát xin gửi về Trung tâm Tin học Văn phòng Chính phủ trước ngày
+25/4/2017 (bản điện tử xin gửi vào hòm thư: atantt@chinhphu.vn) để tổng hợp báo cáo
+Lãnh đạo Văn phòng Chính phủ.
+
+Đầu mối phối hợp: đ/c Bùi Danh Tuyên, Trưởng phòng An toàn, an ninh thông tin,
+điện thoại: 08043811, 0986792555.
+
+Trân trọng..
+
+Nơi nhận:
+
+- Như trên;
+- PCN Lê Mạnh Hà (để b/c);
+- Lưu: VT, ATANTT, Lân.
+
+   
+   
+
+PHIẾU KHẢO SÁT
+công văn số: /2/ /TTTH-ATANTT của Trung tâm Tin học VPCP
+ngày 24:tháng 4 năm 2017)
+
+  
+
+. 'c`l
+Ả/TRITKKăẢ ó
+\\ TINH0C |
+
+t/
+
+1. Thông tin chung về cơ quan được khảo sát
+
+Tiên ka
+Địa chỉ:...
+Điện thoại
+
+Người cung cấp thông tin:
+Họ và tên: .
+
+Số điện thoại:
+
+.ời
+
+Email:...............
+
+2. Hiện trạng kết nối, liên thông văn bản điện tử và ứng dụng ký số
+a. Kết nối, liên thông văn bản điện tử
+U Đã kết nối, liên thông văn bản điện tử giữa Văn phòng các sở, ban, ngành qua Hệ
+thống liên thông văn bản điện tử nội bộ tỉnh/thành phố/đơn vị.
+1 Đã kết nối, liên thông văn bản điện tử với Văn phòng Chính phủ qua Hệ thống
+liên thông văn bản điện tử Văn phòng Chính phủ trên Mạng truyền số liệu chuyên
+dùng của các cơ quan Đảng, Nhà nước.
+b. Ứng dụng chữ ký số gửi/nhận văn bản điện tử
+U Đã thực hiện ký số văn bản điện tử sử dụng phần mềm VSIGN-PDF do Ban Cơ
+yếu Chính phủ cung cấp
+U Đã thực hiện ký số văn bản điện tử sử dụng phần mềm Adobe PDF
+J Đã thực hiện ký số văn bản điện tử sử dụng phần mềm Microsoft Word
+L1 Đã/đang tích hợp ký số văn bản điện tử ngay trên phần mềm quản lý văn bån "†
+điều hành.
+U Đã/đang triển khai hệ thống ký số tập trung để thực hiện tích hợp, ký số văn bản
+điện tử cho tất cả các phần mềm quản lý văn bản & điều hành của các sở/ban/ngành/
+đơn vị.
+U Tần xuất gửi/nhận văn bản điện tử có ký số:
+
+Gửi .2>¦.› Vb/tháng;
+
+Nhận ........Vb/tháng
+
+3. Nhu cầu sử dụng giải pháp hệ thống ký số tập trung do Văn phòng Chính phỉ
+
+triển khai để ký số văn bản điện tứ các phần mềm và dịch vụ công của cơ quan
+
+STT
+
+Nhu cầu
+
+Có Ặ Không `
+
+1
+
+Nhu cầu tích hợp vào các thiết bị cầm tay, di động?
+
+|
+
+Nhu cầu xác thực giữa Khối chính quyền, khối các cơ
+quan Đảng và các đơn vị khác
+
+|
+
+Nhu cầu đào tạo, huấn luyện về chữ ký số chuyên
+dùng
+
+Nhu cầu đào tạo, huấn luyện về an toàn, an ninh bảo
+mật thông tin
+
+4. Các kiến nghị đề xuất khác đối với Văn phòng Chính phủ:
+
+...... , ngày...... tháng ..... năm 2017
+Cơ quan lập báo cáo
+(Ký, ghi rõ họ tên, chức vụ và đóng dấu)
+
+^ an phōtte
+
+
